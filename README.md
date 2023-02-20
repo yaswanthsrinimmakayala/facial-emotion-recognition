@@ -1,4 +1,4 @@
-# facial-emotion-recognizer
+# facial-emotion-recognition
 
 This ML project aims to classify human faces on the basis of their emotion. 
 
